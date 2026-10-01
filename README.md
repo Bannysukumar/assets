@@ -1,3 +1,26 @@
+<!-- readme-seo: bannysukumar -->
+
+# Assets
+
+This is [Banny Sukumar](https://github.com/Bannysukumar)'s public fork of [trustwallet/assets](https://github.com/trustwallet/assets).
+
+The fork is on his GitHub profile so this Go project can be found with his other open-source work. Copyright and the license stay with the upstream project.
+
+## Upstream
+
+- Original repository: [trustwallet/assets](https://github.com/trustwallet/assets)
+- This fork: [Bannysukumar/assets](https://github.com/Bannysukumar/assets)
+- Primary language: **Go**
+
+## Fork author
+
+- GitHub: [@Bannysukumar](https://github.com/Bannysukumar)
+- Portfolio: [adepu-sukumar.vercel.app](https://adepu-sukumar.vercel.app/)
+- LinkedIn: [Adepu Sukumar](https://www.linkedin.com/in/adepu-sukumar-59b423351)
+- ORCID: [0009-0007-9766-6579](https://orcid.org/0009-0007-9766-6579)
+
+## Upstream README
+
 # Trust Wallet Assets Info
 
 ![Check](https://github.com/trustwallet/assets/workflows/Check/badge.svg)
